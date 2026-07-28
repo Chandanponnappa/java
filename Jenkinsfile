@@ -24,7 +24,7 @@ pipeline {
             from: '', 
             replyTo: '', 
             subject: 'Build success',
-            to: 'sharathyp50@gmail.com'
+            to: 'chandanponnappac@gmail.com'
         }
         
         failure {
@@ -34,7 +34,7 @@ pipeline {
             from: '', 
             replyTo: '', 
             subject: 'Build failure',
-            to: 'payalpednekar@hotmail.com'
+            to: 'iamchandanponnappa2315@gmail.com'
         }
     }
 }
